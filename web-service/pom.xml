@@ -11,8 +11,8 @@
 	<groupId>com.web</groupId>
 	<artifactId>web-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dynamic</name>
-	<description>dynamic-task</description>
+	<name>web-service</name>
+	<description>web-service-demo</description>
 
 	<properties>
 		<java.version>1.8</java.version>
